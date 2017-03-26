@@ -1,0 +1,12 @@
+title: Sticky Construction, Inc.
+email: hello@hisaac.net
+description: The homepage of Sticky Construction, Inc., a commercial caulking company located in Thompson, ND.
+baseurl: ""
+url: "https://sticky.construction"
+
+# Build settings
+livereload: true
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
