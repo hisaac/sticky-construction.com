@@ -1,4 +1,42 @@
-// * {
-// 	border: 1px solid red;
-// }
+@import "normalize";
 
+body {
+	font-family: sans-serif;
+	max-width: 1000px;
+	margin: auto;
+	padding: 20px;
+}
+
+header,
+nav {
+	a {
+		text-decoration: none;
+		color: inherit;
+	}
+}
+
+header {
+	nav {
+		display: flex;
+
+		h1,
+		ul {
+			display: inline-block;
+			flex: auto;
+			margin: 0;
+			padding: 0;
+		}
+
+		ul {
+			list-style-type: none;
+			display: flex;
+
+			li {
+				flex: auto;
+				display: inline;
+				position: relative;
+				min-width: min-content;
+			}
+		}
+	}
+}

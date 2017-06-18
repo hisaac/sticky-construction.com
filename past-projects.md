@@ -1,5 +1,6 @@
 ---
 title: Past Projects
 layout: page
-permalink: /past-projects/
 ---
+
+This is the Past Projects page.

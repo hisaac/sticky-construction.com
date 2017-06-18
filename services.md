@@ -1,5 +1,6 @@
 ---
 title: Services
 layout: page
-permalink: /services/
 ---
+
+This is the Services page.

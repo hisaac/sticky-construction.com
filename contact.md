@@ -1,6 +1,6 @@
 ---
 title: Contact
 layout: page
-permalink: /contact/
 ---
 
+This is the Contact page.
