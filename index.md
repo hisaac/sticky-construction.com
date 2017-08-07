@@ -2,6 +2,6 @@
 layout: home
 ---
 
-You've reached the homepage of Sticky Construction, Inc.
+![Two men in boom lifts working on the Alerus bank in downtown Grand Forks, ND](./assets/img/men-at-work/boom-lift-header.jpg)
 
-Sticky Construction specializes in commercial caulking and sealants, working primarily in North Dakota, South Dakota, and Minnesota.
+### Commercial caulking and sealants throughout North Dakota, South Dakota, and Minnesota since 1986.
