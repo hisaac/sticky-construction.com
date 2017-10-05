@@ -4,24 +4,36 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
  */
 
-h1.title {
-	font-size: 1.6em;
+.sticky-title {
+	font-size: 1.3em;
 }
 
-@media (min-width: 576px) {
-	h1.title {
+@media (min-width: 320px) {
+	.sticky-title {
+		font-size: 1.7em;
+	}
+}
+
+@media (min-width: 370px) {
+	.sticky-title {
+		font-size: 2em;
+	}
+}
+
+@media (min-width: 480px) {
+	.sticky-title {
 		font-size: 2.5em;
 	}
 }
 
 @media (min-width: 768px) {
-	h1.title {
+	.sticky-title {
 		font-size: 3.5em;
 	}
 }
 
 @media (min-width: 992px) {
-	h1.title {
+	.sticky-title {
 		font-size: 4.5em;
 	}
 }
