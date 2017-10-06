@@ -15,8 +15,8 @@
 
 .business-header {
 	min-height: 100px;
-	background: url('../img/turtle-cove-providenciales-beach.jpg') center center no-repeat scroll;
-	/* background: url('../img/boom-lift-header.jpg') center center no-repeat scroll; */
+	/* background: url('../img/turtle-cove-providenciales-beach.jpg') center center no-repeat scroll; */
+	background: url('../img/boom-lift-header.jpg') center center no-repeat scroll;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
