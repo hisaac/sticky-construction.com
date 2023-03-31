@@ -1,29 +1,13 @@
 {
-    "title": "Business Frontpage",
-    "name": "startbootstrap-business-frontpage",
-    "version": "4.0.0-beta",
-    "description": "A simple business HTML landing page built with Bootstrap",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/business-frontpage",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-business-frontpage/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "title": "sticky-construction.com",
+    "name": "sticky-construction.com",
+    "description": "The official website for Sticky Construction, Inc.",
+    "homepage": "https://sticky-construction.com",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Isaac Halvorson",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-business-frontpage.git"
+        "url": "https://github.com/hisaac/sticky-construction.com.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta",
